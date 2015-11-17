@@ -1,6 +1,6 @@
 // Script
 
-var randomnumber = Math.round(10 * Math.random())
+var randomnumber = Math.round(100 * Math.random())
 var array = [];
 
 function guessNumber() {
